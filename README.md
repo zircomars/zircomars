@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zircomars&show_icons=true&theme=dark)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zircomars&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
