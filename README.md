@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zircomars&show_icons=true&theme=dark)
 
 [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zircomars&langs_count=5&theme=tokyonight)]()
-
-[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zircomars&theme=radical&hide_border=true)
