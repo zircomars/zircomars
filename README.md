@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+profile generaattori image; https://profile-readme-generator.com/
+
+-->
+
 <!-- minun omat skillit START HERE -->
 <div align="center">
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
