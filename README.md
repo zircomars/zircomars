@@ -53,7 +53,7 @@ profile generaattori image; https://profile-readme-generator.com/
 
 <!-- commits utc +8.00 time -->
 <div align="center">
-  http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zircomars&theme=default&utcOffset=8
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zircomars&theme=nord_bright" >
 </div>
 
 
