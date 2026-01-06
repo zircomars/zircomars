@@ -18,6 +18,12 @@ profile generaattori image; https://profile-readme-generator.com/
 
 -->
 
+<h1 align="left">Hey 👋 What's up? My name is Zhao & from Finland </h1>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zircomars.zircomars&"  />
+</div>
+
 <!-- minun omat skillit START HERE -->
 <div align="center">
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
@@ -31,21 +37,6 @@ profile generaattori image; https://profile-readme-generator.com/
   <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
-</div>
-
-###
-<!-- minun omat stats ja yleiset programming skillit ajankohdat START HERE -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zircomars&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<!-- gif kuva animaatio START HERE -->
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/6a/b5/19/6ab5193fd83c03eca09a2a378a2db418.gif"  />
 </div>
 
 ###
