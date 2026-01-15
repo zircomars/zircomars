@@ -22,6 +22,7 @@ profile generaattori image; https://profile-readme-generator.com/
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zircomars.zircomars&"  />
+  <h2>My portfolio: https://zircomars.github.io/portfolio/</h2>
 </div>
 
 <!-- minun omat skillit START HERE -->
